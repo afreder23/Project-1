@@ -97,7 +97,7 @@ SSH into the control node and follow the steps below:
 - Update the hosts file to include web servers 10.0.0.4, 10.0.0.7, 10.0.0.8 and update the elk server to include 10.1.0.4.
 - Run the playbook, and navigate to Kibana to check that the installation worked as expected.
 
-_TODO: Answer the following questions to fill in the blanks:_
+
 - The file book is filebeat-config.yml You copy the file from /etc/ansible/files/filebeat-config.yml to /etc/ansible/files/filebeat-config.yml 
 - To make Ansible run the playbook on a specific machine you update the hosts file in /etc/ansible/hosts. In order to specify which machine to install the elk server or the filebeat you specify which hosts at the beginning of the playbook. 
 - The URL you use to check that the elk server is running is http://[your.ELK-VMExternal.IP]:5601/app/kibana
