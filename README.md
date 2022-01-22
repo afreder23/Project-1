@@ -3,8 +3,9 @@ MSU Cybersecurity Bootcamp Project 1: Elk-Stack
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
-..\..\..\..\..\Dropbox\PC\Downloads\Elk-server-diagram.png
+
  
+![Elk-server-diagram](https://user-images.githubusercontent.com/91635646/150630580-287c2607-bb85-4ed7-b3e8-ca2fa2b34ce8.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
